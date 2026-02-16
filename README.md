@@ -1,8 +1,8 @@
 ## Hi there, I'm Pinky 👋
 
 <p align="justify">
-I'm a <strong>Brazilian full-stack developer</strong> 🇧🇷 building digital products with <em>care and intention</em>.  
-I value <strong>clean architecture</strong>, thoughtful design and systems that actually scale.  
-Coffee-powered ☕, detail-oriented, and <em>quietly obsessed</em> with shipping things the right way. ✨  
-Always building. <strong>Always refining.</strong>
+Brazilian <strong>full-stack developer</strong> 🇧🇷 building systems that (usually) behave.  
+Focused on <em>clean architecture</em>, automation and scalable products.  
+Powered by coffee ☕ and a mild obsession with doing things properly. ✨  
+<em>Ship. Improve. Repeat.</em>
 </p>
