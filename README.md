@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Pinky 👋
 
 <!--
 **codepinky/codepinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="justify">
+Full-stack developer from Brazil 🇧🇷 building digital products with care and intention.  
+I like clean architecture, thoughtful design, automation and systems that actually scale.  
+Coffee-powered, detail-oriented, and quietly obsessed with shipping things the right way. ☕✨
+</p>
